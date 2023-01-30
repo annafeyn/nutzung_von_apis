@@ -6,4 +6,4 @@ Facebook AdLibrary API
 
 Twitter API (V2)
 
-Telethon
+Telethon for Telegram API
