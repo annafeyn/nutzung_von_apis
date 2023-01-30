@@ -1,12 +1,10 @@
-# hello-world
-Place to store ideas
+# Digitale Methoden in der Forschung - Nutzung von APIs zur Datensammlung von Social-Media-Plattformen
+Indigo-Workshop
 
-Idea 1
+CrowdTangle API
 
-Idea 2
+Facebook AdLibrary API
 
-Idea 3
+Twitter API (V2)
 
-Idea 4
-
-Idea 5
+Telethon
